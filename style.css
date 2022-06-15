@@ -9,7 +9,7 @@ p{font-size: 18px;
 font-family: inherit;
 background-color: #E7F8A8 ;
 padding: 15px;}
-body{background-image: url(file:///pozadina.jpg);}
+body{background-image: url(file:pozadina.jpg);}
 a:link {
   color: black;
 background-color: white;
